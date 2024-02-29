@@ -1,0 +1,1 @@
+export const gw = process.env.GW || "https://ourshopgateway.onrender.com/api/";
