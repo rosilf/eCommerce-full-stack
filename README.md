@@ -26,8 +26,6 @@
 
 ## Architecture
 
-Explain the microservices architecture:
-
 - **API Gateway:** The API Gateway serves as the entry point to our system, handling incoming requests and     
   directing them to the appropriate microservices. This central hub streamlines communication, optimizes load 
   balancing, and ensures a unified interface for clients.
@@ -35,10 +33,11 @@ Explain the microservices architecture:
   actions. By decoupling authentication concerns, we enhance security and scalability.
 - **Order API:** The Order API microservice takes charge of order-related operations. From processing purchase     requests to updating order status, this component ensures the smooth flow of transactions throughout the     system.
 - **Product and Cart Microservice:** Responsible for managing product information and cart functionalities, this microservice handles tasks related to browsing, searching, and adding products to the cart. It ensures a seamless and responsive shopping experience for our users.
+<p align="center">
+<img src="/eCommerceMicroservicesDesign.png" width="500">
+</p>
 
 ## Features
-
-Highlight the key features of your eCommerce project:
 
 - **Store Frontend:**
   - Catalog Page: The first page the user sees when he connects to the
