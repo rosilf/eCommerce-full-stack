@@ -76,6 +76,7 @@
 - **Store & Back-Office Frontend:**
   - [React](https://reactjs.org/)
   - [Redux](https://redux.js.org/)
+  - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 
 - **Database:**
   - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
