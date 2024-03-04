@@ -77,6 +77,7 @@
   - [React](https://reactjs.org/)
   - [Redux](https://redux.js.org/)
   - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
+  - [Chakra UI](https://chakra-ui.com/)
 
 - **Database:**
   - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
